@@ -1,0 +1,13 @@
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\bin\Debug\netcoreapp3.1\poo-celular.exe
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\bin\Debug\netcoreapp3.1\poo-celular.deps.json
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\bin\Debug\netcoreapp3.1\poo-celular.runtimeconfig.json
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\bin\Debug\netcoreapp3.1\poo-celular.runtimeconfig.dev.json
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\bin\Debug\netcoreapp3.1\poo-celular.dll
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\bin\Debug\netcoreapp3.1\poo-celular.pdb
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\obj\Debug\netcoreapp3.1\poo-celular.csprojAssemblyReference.cache
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\obj\Debug\netcoreapp3.1\poo-celular.AssemblyInfoInputs.cache
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\obj\Debug\netcoreapp3.1\poo-celular.AssemblyInfo.cs
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\obj\Debug\netcoreapp3.1\poo-celular.csproj.CoreCompileInputs.cache
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\obj\Debug\netcoreapp3.1\poo-celular.dll
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\obj\Debug\netcoreapp3.1\poo-celular.pdb
+C:\Users\Telma\Desktop\AULAPOO_CELULAR\obj\Debug\netcoreapp3.1\poo-celular.genruntimeconfig.cache
